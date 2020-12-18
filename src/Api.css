@@ -1,0 +1,65 @@
+<<<<<<< HEAD
+
+
+
+table, th, td
+{
+  border: 1px solid black;
+ 
+}
+th, td
+{
+  padding: 5px;
+  
+}
+th
+{
+  text-align: left;
+  
+}
+
+table{
+  border-spacing: 5px;
+}
+
+tr:nth-child(even){
+
+  background-color: #eee;
+}
+tr:nth-child(odd){
+  background-color: #fff;
+}
+
+=======
+
+
+
+table, th, td
+{
+  border: 1px solid black;
+ 
+}
+th, td
+{
+  padding: 5px;
+  
+}
+th
+{
+  text-align: left;
+  
+}
+
+table{
+  border-spacing: 5px;
+}
+
+tr:nth-child(even){
+
+  background-color: #eee;
+}
+tr:nth-child(odd){
+  background-color: #fff;
+}
+
+>>>>>>> 9fd8523aa2bd504cd014cc7219c9e12c5242609d
